@@ -12,7 +12,7 @@ This template has a Game and a GameTimer Class also has a sdl_init.hpp/.cpp file
   - set a frame limiter
 # 
 ### Compile It!
-At the root you can file a **Makefile**
+At the root you can find a **Makefile**
 - To **build** the project run `make` or `make all`
 - To **clean** the last compilation run `make clean`
 - To **rebuild** `make rebuild`
